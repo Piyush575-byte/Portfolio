@@ -54,7 +54,7 @@ export const assetMap = {
       }
     ],
     eventReelSrc: '/Videos/delhi-stands-with-divyangjan.mp4',
-    originalEventReelSrc: '/Videos/Delhi stands with its Divyangjan.#SevaSankalpAbhiyan.mp4',
+    originalEventReelSrc: '/Videos/delhi-stands-with-divyangjan.mp4',
     label: 'OPI Course Launch & Event Documentation'
   },
 
